@@ -2,6 +2,9 @@
 [![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
 [![](https://img.shields.io/discord/734849242153222221?logo=discord)](https://discord.gg/2NRPpcU)
 
+## Link da aplicação para teste
+http://pipeline-ph-wacky-lynx.mybluemix.net/
+
 # Desafio 01 | Cocamar
 
 - [1. Sobre a Cocamar](#1-sobre-a-cocamar)
