@@ -1,7 +1,3 @@
-[![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
-[![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
-[![](https://img.shields.io/discord/734849242153222221?logo=discord)](https://discord.gg/2NRPpcU)
-
 ## Link da aplicação para teste
 http://pipeline-ph-wacky-lynx.mybluemix.net/
 
