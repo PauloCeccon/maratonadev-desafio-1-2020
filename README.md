@@ -3,13 +3,13 @@ http://pipeline-ph-wacky-lynx.mybluemix.net/
 
 ## Resultados esperados:
 
-![Lagarta](imagens/lagarta.jpeg)
+![Lagarta](images/lagarta.jpeg)
 
-![Percevejo Marrom](imagens/Percevejo_Marrom.jpg)
+![Percevejo Marrom](images/Percevejo_Marrom.jpg)
 
-![Percevejo Pequeno](imagens/percevejo_pequeno.jpg)
+![Percevejo Pequeno](images/percevejo_pequeno.jpg)
 
-![Percevejo Verde](percevejo_verde.jpg)
+![Percevejo Verde](images/percevejo_verde.jpg)
 
 # Desafio 01 | Cocamar
 
