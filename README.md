@@ -1,6 +1,17 @@
 ## Link da aplicação para teste
 http://pipeline-ph-wacky-lynx.mybluemix.net/
 
+## Resultados esperados:
+
+[Lagarta](imagens/lagarta.jpeg)
+
+[Percevejo Marrom](imagens/Percevejo_Marrom.jpg)
+
+[Percevejo Pequeno](imagens/percevejo_pequeno.jpg)
+
+[Percevejo Verde](percevejo_verde.jpg)
+
+
 # Desafio 01 | Cocamar
 
 - [1. Sobre a Cocamar](#1-sobre-a-cocamar)
